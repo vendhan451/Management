@@ -1,0 +1,11 @@
+/* existing styles */
+
+.error-bar {
+  background-color: #ef4444; /* Tailwind's bg-red-500 */
+  border-top-left-radius: 0.25rem; /* rounded-t */
+  border-top-right-radius: 0.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20px;
+  height: var(--bar-height);
+}
